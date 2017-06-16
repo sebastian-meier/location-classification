@@ -1,0 +1,27 @@
+{
+  "name": "location-classification",
+  "version": "1.0.0",
+  "description": "PhD #03 - Location analysis, classification and prediction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastian-meier/location-classification.git"
+  },
+  "author": "Sebastian Meier",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/sebastian-meier/location-classification/issues"
+  },
+  "homepage": "https://github.com/sebastian-meier/location-classification#readme",
+  "dependencies": {
+    "d3": "^4.9.1",
+    "fast-csv": "^2.4.0",
+    "fs": "0.0.1-security",
+    "shelljs": "^0.7.8",
+    "shuffle-array": "^1.0.1",
+    "spatialite": "0.0.6"
+  }
+}
